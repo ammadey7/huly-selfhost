@@ -1,0 +1,6 @@
+
+# Security-sensitive changes require owner review when branch rules enforce it.
+/.github/ @ammadey7
+/.pre-commit-config.yaml @ammadey7
+/.gitignore @ammadey7
+/SECURITY.md @ammadey7
